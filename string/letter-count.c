@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include <string.h>
 
+// counts frequency of letters in string
+
 int main() {
   char str[100];
   int c = 0, count[26] = {0};
