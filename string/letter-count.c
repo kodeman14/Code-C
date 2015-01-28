@@ -6,7 +6,7 @@
 int main() {
   char str[100];
   int c = 0, count[26] = {0};
-  printf("enter a string\n");
+  printf("enter string\n");
   gets(str);
   while (str[c] != '\0') {
     if (str[c] >= 'a' && str[c] <= 'z') {
