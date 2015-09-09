@@ -8,14 +8,15 @@ void main() {
     for (int j=n-1; j>i; j--) {
       printf(" ");
     } for (int k=1; k<=z; k++) {
-        printf("*");
-    } z++;  
+        printf("*"); // put any char
+    } z++;
     printf("\n");
   }
   getch();
 }
 
 /*
+
     *
    **
   ***
