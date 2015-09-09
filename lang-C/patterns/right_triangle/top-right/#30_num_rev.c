@@ -2,7 +2,7 @@
 #include<conio.h>
 
 void main() {
-  int z=5, n=5; // (z -> max stars) + (n -> size)
+  int z=5, n=5;
   clrscr();
   for (int i=n; i>=1; i--) {
     for (int j=n-1; j>i; j--) {
