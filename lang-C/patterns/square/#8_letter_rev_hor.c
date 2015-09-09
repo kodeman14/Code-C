@@ -10,3 +10,13 @@ void main() {
   }
   getch();
 }
+
+/*
+
+EEEEE
+DDDDD
+CCCCC
+BBBBB
+AAAAA
+
+*/
